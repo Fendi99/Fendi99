@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fendi99
-- 👀 I’m interested in Software Enginet
+- 👀 I’m interested in Software Enginer
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me ...
